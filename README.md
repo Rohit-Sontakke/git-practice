@@ -16,3 +16,7 @@ This is my first project for learning Git and GitHub.
 
 \- GitHub repositories
 
+
+
+I am learning git diff and git commit through practical exercises.
+
